@@ -11,7 +11,7 @@ export default function Projects({ img, description, link, title, planet: Planet
       <Planet />
 
       <section className='planet__container'>
-        <span className='planet__name'>Planeta {title}</span>
+        <span className='planet__name'>Planet {title}</span>
         <span className='planet__desc'> - {description} - </span>
       </section>
     </a>

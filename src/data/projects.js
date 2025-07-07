@@ -8,26 +8,26 @@ import Uranus from '../components/Uranus'
 
 const projects = [
     {
-        image: tfcImage,
-        link: 'https://github.com/gammarkin/Try-Futebol-Clube',
-        description: 'uma página front-end para um clube de futebol',
-        title: 'Try Futebol Clube app',
-        planet: Uranus,
+        image: diceyImage,
+        link: 'https://github.com/gammarkin/dicey',
+        description: 'A bot to Discord made with discord.js for the Ordem Paranormal system.',
+        title: 'Dicey bot',
+        planet: Venus,
     },
     {
         image: recipeAppImage,
         link: 'https://github.com/gammarkin/recipe-app',
-        description: 'Um aplicativo de receitas',
+        description: 'A recipe app mock web page.',
         title: 'Recipe App',
         planet: Mars,
     },
     {
-        image: diceyImage,
-        link: 'https://github.com/gammarkin/dicey',
-        description: 'um bot para o discord feito com discord.js para o sistema de ordem paranormal.',
-        title: 'Dicey bot',
-        planet: Venus,
-    }
+        image: tfcImage,
+        link: 'https://github.com/gammarkin/singy',
+        description: 'A bot to Discord made with discord.js for playing youtube songs.',
+        title: 'Singy bot',
+        planet: Uranus,
+    },
 ]
 
 export default projects

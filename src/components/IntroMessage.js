@@ -4,9 +4,9 @@ export default function IntroMessage() {
     return (
         <section className='intro__message_container'>
             <p className='intro__message'>
-                Resolvendo problemas com código e
+                Resolving problems with code and
                 <br />
-                com uma criatividade de outro mundo.
+                a otherworldy criativiy
             </p>
         </section>
     )

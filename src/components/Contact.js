@@ -5,10 +5,10 @@ import githubIcon from '../assets/images/github-sign.png';
 export default function Contact() {
   return (
     <section className="contact__container" id="contact">
-      <span className="contact__msg">Interessado(a) em embarcar nessa jornada?</span>
+      <span className="contact__msg">Interested in embarking on this journey?</span>
 
       <span className="contact__msg">
-        me mande uma mensagem {' '}
+        Shoot me a message at {' '}
         <a className="contact__email" href="mailto:marcosrbnsf@gmail.com">
           marcosrbnsf@gmail.com
         </a>
