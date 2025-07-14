@@ -6,7 +6,7 @@ export default function IntroMessage() {
             <p className='intro__message'>
                 Resolving problems with code and
                 <br />
-                a otherworldy criativiy
+                a otherworldy criativity
             </p>
         </section>
     )
